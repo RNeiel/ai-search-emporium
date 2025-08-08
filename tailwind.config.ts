@@ -52,6 +52,15 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				ai: {
+					primary: 'hsl(var(--ai-primary))',
+					secondary: 'hsl(var(--ai-secondary))'
+				},
+				confidence: {
+					high: 'hsl(var(--confidence-high))',
+					medium: 'hsl(var(--confidence-medium))',
+					low: 'hsl(var(--confidence-low))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
